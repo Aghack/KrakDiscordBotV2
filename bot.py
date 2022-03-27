@@ -9,7 +9,7 @@ from discord.ext.commands import has_permissions
 from dotenv import load_dotenv
 
 load_dotenv()
-TOKEN = ('OTAyMjY0NzM2NjIyNzE4OTg2.YXb5hA.6CP-i7WCLMyafzplHHmPTTkvZu8')
+TOKEN = ('BOT-TOKEN')
 
 client = commands.Bot(command_prefix='>')
 
